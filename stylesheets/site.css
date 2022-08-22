@@ -1,0 +1,30 @@
+html, button, input, select, textarea,
+.pure-g [class *= "pure-u"] {
+    /* Set your content font stack here: */
+}
+
+body {
+  background-color: #ffffff;
+  color: #333333;
+  font-family: 'Roboto','Catamaran', sans-serif;
+
+}
+
+
+.clearfix{
+    content: "";
+    display: block;
+    clear: both;
+}
+
+
+
+.cover {
+  display: block;
+  width: 100%;
+  overflow: hidden;
+  margin: 0 auto;
+}
+.cover img{
+  width:100%;
+}
