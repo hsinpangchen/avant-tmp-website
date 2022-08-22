@@ -1,1 +1,3 @@
-# avant-tmp-website
+---
+permalink: /index.html
+---
